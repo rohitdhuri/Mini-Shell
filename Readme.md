@@ -1,4 +1,6 @@
-## Operating Systems Course
+## CS550 - Operating Systems  
+Spring 2020
+State University of New York at Binghamton  
 Project Author: Rohit Mahendra Dhuri
 
 ### Compilation
