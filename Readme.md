@@ -1,4 +1,4 @@
-#### Operating Systems Course
+## Operating Systems Course
 Project Author: Rohit Mahendra Dhuri
 
 ### Compilation
