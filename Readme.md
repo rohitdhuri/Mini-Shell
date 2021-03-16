@@ -17,8 +17,7 @@ ssh550> exit
 
 
 ### Details
-
-https://oscourse.github.io/hw1.html  
+ 
 Execute a single command without arguments  
 Execute a single command with arguments  
 Input redirection from file: Executing a single command that takes standard input (stdin) from a file  
