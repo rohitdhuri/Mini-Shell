@@ -16,7 +16,7 @@ Use this to exit shell.
 ssh550> exit
 
 
-### Assignment Details
+### Details
 
 https://oscourse.github.io/hw1.html  
 Execute a single command without arguments  
